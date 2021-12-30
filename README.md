@@ -19,7 +19,13 @@
     <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
     <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 </div>
+<br/>
+<a href="https://github.com/datoybi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datoybi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact" />
+</a>
 
-[![Dasom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=datoybi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/datoybi)
+<a href="https://solved.ac/dsy0302/">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsy0302" />
+</a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsy0302)](https://solved.ac/dsy0302/)
+
