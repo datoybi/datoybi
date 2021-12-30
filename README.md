@@ -20,7 +20,6 @@
     <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 </div>
 
-[![Dasom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=datoybi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/datoybi)
-
+[![Dasom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=datoybi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/datoybi)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsy0302)](https://solved.ac/dsy0302/)
