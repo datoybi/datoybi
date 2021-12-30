@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-> I'm Dasom Yun who currently working as web developer. <br/>I enjoy learing new languages and new things. Also I have serious passion for building out the visual components of a website, pleasure of making things that are useful to other people.
+> ### I'm Dasom Yun who currently working as web developer. <br/>I enjoy learing new languages and new things. Also I have serious passion for building out the visual components of a website, pleasure of making things that are useful to other people.
 <br/>
 
 ## Stack
