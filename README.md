@@ -1,4 +1,5 @@
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
 
 # Hi there 👋
@@ -7,7 +8,6 @@
 <br/>
 
 ## Stack
-<div style="text-align:center">
 <div style="float:left">
     <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -18,11 +18,12 @@
     <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 </div>
 <br/>
+<div align="center">
     <a href="https://github.com/datoybi" style="margin-right:10px">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datoybi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datoybi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact" />
     </a>
     <a href="https://solved.ac/dsy0302/">
-      <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsy0302" />
+      <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsy0302" />
     </a>
 </div>
 
